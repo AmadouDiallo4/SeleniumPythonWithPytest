@@ -1,0 +1,41 @@
+1688762428338	geckodriver	INFO	Listening on 127.0.0.1:46563
+1688762428398	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "38685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFHKXUs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: libva-drm.so.2 is missing.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1688762433280	Marionette	INFO	Marionette enabled
+1688762434281	Marionette	INFO	Listening on port 33997
+Read port: 33997
+WebDriver BiDi listening on ws://127.0.0.1:38685
+1688762434712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:38685/devtools/browser/c9af3455-7f07-46ee-8558-f02615c3f14f
+1688762446623	Marionette	INFO	Stopped listening on port 33997
+1688762449000	geckodriver	INFO	Listening on 127.0.0.1:54721
+1688762449510	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "32951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec34pVk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: libva-drm.so.2 is missing.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1688762452166	Marionette	INFO	Marionette enabled
+1688762452288	Marionette	INFO	Listening on port 35553
+WebDriver BiDi listening on ws://127.0.0.1:32951
+Read port: 35553
+1688762453038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:32951/devtools/browser/35fb7d66-00a5-413d-ad0b-1d67d6a40139
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1688762465528	Marionette	INFO	Stopped listening on port 35553
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
