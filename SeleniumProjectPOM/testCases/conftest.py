@@ -9,6 +9,8 @@ def setup(browser):
     elif browser=='firefox':
         driver = webdriver.Firefox()
         print("\n**********************launching Firefox browser............")
+    else:
+        driver=webdriver.Chrome()
     return driver
 
 def pytest_addoption(parser):  # this will get the value from CLI (hooks)
@@ -17,3 +19,19 @@ def pytest_addoption(parser):  # this will get the value from CLI (hooks)
 @pytest.fixture()
 def browser(request):  # this will return the browser value to setup method
     return request.config.getoption("--browser")
+
+
+############# pytest HTML report ########################
+# it is hook for adding environment info to HTML Report
+def pytest_configure(config):
+    config.metadata['Project Name'] = 'nop Commerce tuto'
+    config.metadata['Module Name'] = 'Customers'
+    config.metadata['Tester'] = 'Amadou'
+
+# it is hook for delete/modify environment info to HTML Report"
+@pytest.mark.optionalhook
+def pytest_metadata(metadata):
+    metadata.pop("JAVA_HOME", None)
+    metadata.pop("Plugins", None)
+
+
