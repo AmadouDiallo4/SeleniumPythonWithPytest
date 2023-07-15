@@ -10,7 +10,7 @@ class Test_002_DDT_Login:
     baseURL = ReadConfig.getApplicationURL()
     path = ".//TestDatas/LoginData.xlsx"
 
-    logger = LogGen.loggen()
+    logger = LogGen.loggen() # logger
 
 
     def test_login_ddt(self,setup):
