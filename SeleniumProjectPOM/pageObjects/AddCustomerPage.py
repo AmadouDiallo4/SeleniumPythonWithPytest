@@ -1,7 +1,7 @@
 import time
 
 from selenium.webdriver.common.by import By
-
+from selenium.webdriver.support.ui import Select
 
 class AddCustomer:
     #add customer page
@@ -18,7 +18,7 @@ class AddCustomer:
     lstitemVendor_xpath = "//span[normalize-space()='Vendors']"
     drpmgrOfVendor_id ="//*[@id='VendorId']"
     rdMaleGender_id = "Gender_Male"
-    rdFemalGender_id = "Gender_Female"
+    rdFemaleGender_id = "Gender_Female"
     txtFirstName_xpath = "//input[@id='FirstName']"
     txtLastName_xpath = "//input[@id='LastName']"
     txtDob_xpath = "//input[@id='DateOfBirth']"
@@ -49,7 +49,49 @@ class AddCustomer:
         time.sleep(3)
         if role == 'Registered':
             self.listitem = self.driver.find_element(By.XPATH, self.lstitemRegistered_xpath)
-        elif role== 'Administrators':
+        elif role == 'Administrators':
             self.listitem = self.driver.find_element(By.XPATH, self.lstitemAdministrator_xpath)
-        elif role == 'Gustes':
+        elif role == 'Guests':
+            # we can Guest only or Registered
+            time.sleep(3)
+            self.driver.find_element(By.XPATH, "//li[@class='k-button k-state-hover']//span[@title='delete']").click()
             self.listitem = self.driver.find_element(By.XPATH, self.lstitemGuest_xpath)
+        elif role == 'Registered':
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemRegistered_xpath)
+        elif role == 'Vendors':
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemVendor_xpath)
+        else:
+            self.listitem = self.driver.find_element(By.XPATH, self.lstitemGuest_xpath)
+        time.sleep(3)
+        self.driver.execute_script("argument[0].click;", self.listitem)
+
+    def setManagerOfVendor(self, value):
+        drp = Select(self.driver.find_element_by_xpath(self.drpmgrOfVendor_id))
+        drp.select_by_visible_text(value)
+
+    def setGender(self, gender):
+        if gender == 'Male':
+            self.driver.find_element_by_id(self.rdMaleGender_id).click()
+        elif gender == 'Female':
+            self.driver.find_element_by_id(self.rdFeMaleGender_id).click()
+        else:
+            self.driver.find_element_by_id(self.rdMaleGender_id).click()
+
+    def setFirstName(self, fname):
+        self.driver.find_element_by_xpath(self.txtFirstName_xpath).send_keys(fname)
+
+    def setLastName(self, lname):
+        self.driver.find_element_by_xpath(self.txtLastName_xpath).send_keys(lname)
+
+    def setDob(self, dob):
+        self.driver.find_element_by_xpath(self.txtDob_xpath).send_keys(dob)
+
+    def setCompanyName(self, comname):
+        self.driver.find_element_by_xpath(self.txtCompanyName_xpath).send_keys(comname)
+
+    def setAdminContent(self, content):
+        self.driver.find_element_by_xpath(self.txtAdminContent_xpath).send_keys(content)
+
+    def clickOnSave(self):
+        self.driver.find_element_by_xpath(self.btnSave_xpath).click()
+
