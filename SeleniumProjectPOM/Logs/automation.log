@@ -32,3 +32,18 @@
 2023-07-08 22:40:50,527: INFO: root :************** Login DDT Test passed  ****************
 2023-07-08 22:40:50,675: INFO: root :************** End of Login DDT Test   ****************
 2023-07-08 22:40:50,675: INFO: root :************** Completed TC_Login_DDT_002   ****************
+2023-07-19 23:07:18,871: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-19 23:09:44,616: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-19 23:09:49,695: - INFO: - root - :**************** Login successful ************
+2023-07-19 23:13:00,376: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-19 23:13:04,134: - INFO: - root - :**************** Login successful ************
+2023-07-19 23:13:04,135: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-19 23:56:13,667: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-19 23:56:16,894: - INFO: - root - :**************** Login successful ************
+2023-07-19 23:56:16,895: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-20 00:02:25,787: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-20 00:02:31,389: - INFO: - root - :**************** Login successful ************
+2023-07-20 00:02:31,389: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-20 00:04:55,187: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-20 00:05:00,619: - INFO: - root - :**************** Login successful ************
+2023-07-20 00:05:00,620: - INFO: - root - :************ starting Add Customer Test *******
