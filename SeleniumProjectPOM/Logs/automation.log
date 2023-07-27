@@ -276,3 +276,44 @@
 2023-07-28 01:32:51,237: - INFO: - root - :*********** Starting Search customer By Email ***********
 2023-07-28 01:32:54,081: - INFO: - root - :****************** searching customer by emailID ************
 2023-07-28 01:33:07,554: - INFO: - root - :************ TC_SearchCustomerByEmail_004 Finished *******
+2023-07-28 01:45:55,330: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:46:00,724: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:46:00,724: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:46:02,307: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:48:38,511: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:48:42,173: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:48:42,173: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:48:45,384: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:49:28,273: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:49:33,148: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:49:33,149: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:49:34,910: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:50:06,234: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:50:13,551: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:50:13,551: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:50:15,111: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:51:18,843: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:51:22,402: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:51:22,403: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:51:25,790: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:52:51,778: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:52:55,513: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:52:55,514: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:52:58,993: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:55:09,837: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:55:14,095: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:55:14,095: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:55:17,320: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:55:44,031: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:55:48,818: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:55:48,818: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:55:50,296: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:56:57,788: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:57:01,706: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:57:01,707: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:57:04,966: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:58:25,621: - INFO: - root - :*********** Test_005_SearchCustomerByName ***********
+2023-07-28 01:58:28,929: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:58:28,931: - INFO: - root - :*********** Starting Search customer By Name ***********
+2023-07-28 01:58:32,193: - INFO: - root - :****************** searching customer by nameID ************
+2023-07-28 01:58:37,840: - INFO: - root - :************ TC_SearchCustomerByName_005 Finished *******

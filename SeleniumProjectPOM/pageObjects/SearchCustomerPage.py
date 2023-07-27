@@ -31,12 +31,12 @@ class SearchByCustomer:
         self.driver.find_element(By.ID, self.searchButton_id).click()
 
     def setSearchFirstName(self, fname):
-        self.driver.find_element(By.ID, self.searchEmail_id).clear()
-        self.driver.find_element(By.ID, self.searchEmail_id).send_keys(fname)
+        self.driver.find_element(By.ID, self.searchFirstName_id).clear()
+        self.driver.find_element(By.ID, self.searchFirstName_id).send_keys(fname)
 
-    def setSearchFirstName(self, lname):
-        self.driver.find_element(By.ID, self.searchEmail_id).clear()
-        self.driver.find_element(By.ID, self.searchEmail_id).send_keys(lname)
+    def setSearchLastName(self, lname):
+        self.driver.find_element(By.ID, self.searchLastName_id).clear()
+        self.driver.find_element(By.ID, self.searchLastName_id).send_keys(lname)
 
     def getNoOfRows(self):
         return len(self.driver.find_elements(By.XPATH, self.tableRows_xpath))
@@ -50,6 +50,16 @@ class SearchByCustomer:
             table = self.driver.find_element(By.XPATH, self.table_xpath)
             emailid = table.find_element(By.XPATH, "//*[@id='customers-grid']/tbody/tr["+str(r)+"]/td[2]").text
             if emailid == email:
+                flag = True
+                break
+        return flag
+
+    def searchCustomerByName(self, name):
+        flag = False
+        for r in range(1, self.getNoOfRows()+1):
+            table = self.driver.find_element(By.XPATH, self.table_xpath)
+            nameid = table.find_element(By.XPATH, "//*[@id='customers-grid']/tbody/tr["+str(r)+"]/td[3]").text
+            if nameid == name:
                 flag = True
                 break
         return flag
