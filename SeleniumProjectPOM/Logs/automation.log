@@ -163,3 +163,116 @@
 2023-07-21 00:11:50,862: - INFO: - root - :***************** Add customer validation started *******************
 2023-07-21 00:11:51,196: - INFO: - root - :************* Add customer Test passed ****************
 2023-07-21 00:11:51,537: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-27 22:33:25,869: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-27 22:33:37,158: - INFO: - root - :**************** Login successful ************
+2023-07-27 22:33:37,158: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-27 22:33:45,341: - INFO: - root - :******************* Providing customer info ********************
+2023-07-27 22:33:54,383: - INFO: - root - :***************** Saving Customer info *************
+2023-07-27 22:33:54,384: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-27 22:33:54,745: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-27 22:33:55,245: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-27 22:39:52,705: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-27 22:39:58,826: - INFO: - root - :**************** Login successful ************
+2023-07-27 22:39:58,827: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-27 22:40:01,466: - INFO: - root - :******************* Providing customer info ********************
+2023-07-27 22:40:10,540: - INFO: - root - :***************** Saving Customer info *************
+2023-07-27 22:40:10,541: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-27 22:40:10,897: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-27 22:40:11,284: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-27 23:09:28,584: - INFO: - root - :*********** Test_004_SearchByEmail ***********
+2023-07-27 23:09:34,206: - INFO: - root - :**************** Login successful ************
+2023-07-27 23:09:34,206: - INFO: - root - :*********** Start searching user by email ***********
+2023-07-27 23:12:42,946: - INFO: - root - :*********** Test_004_SearchByEmail ***********
+2023-07-27 23:12:50,161: - INFO: - root - :**************** Login successful ************
+2023-07-27 23:12:50,162: - INFO: - root - :*********** Start searching user by email ***********
+2023-07-27 23:14:58,552: - INFO: - root - :*********** Test_004_SearchByEmail ***********
+2023-07-27 23:15:03,581: - INFO: - root - :**************** Login successful ************
+2023-07-27 23:15:03,581: - INFO: - root - :*********** Start searching user by email ***********
+2023-07-27 23:18:32,525: - INFO: - root - :*********** Test_004_SearchByEmail ***********
+2023-07-27 23:18:38,464: - INFO: - root - :**************** Login successful ************
+2023-07-27 23:18:38,464: - INFO: - root - :*********** Start searching user by email ***********
+2023-07-27 23:20:19,007: - INFO: - root - :*********** Test_004_SearchByEmail ***********
+2023-07-27 23:20:25,251: - INFO: - root - :**************** Login successful ************
+2023-07-27 23:20:25,251: - INFO: - root - :*********** Start searching user by email ***********
+2023-07-27 23:20:55,400: - INFO: - root - :*********** Test_004_SearchByEmail ***********
+2023-07-27 23:21:01,317: - INFO: - root - :**************** Login successful ************
+2023-07-27 23:21:01,317: - INFO: - root - :*********** Start searching user by email ***********
+2023-07-27 23:24:48,714: - INFO: - root - :*********** Test_004_SearchByEmail ***********
+2023-07-27 23:24:53,212: - INFO: - root - :**************** Login successful ************
+2023-07-27 23:24:53,213: - INFO: - root - :*********** Start searching user by email ***********
+2023-07-27 23:25:53,485: - INFO: - root - :*********** Test_004_SearchByEmail ***********
+2023-07-27 23:25:56,484: - INFO: - root - :**************** Login successful ************
+2023-07-27 23:25:56,484: - INFO: - root - :*********** Start searching user by email ***********
+2023-07-28 00:21:39,291: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 00:21:42,855: - INFO: - root - :**************** Login successful ************
+2023-07-28 00:21:42,856: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 00:21:46,194: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 00:25:18,252: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 00:25:24,222: - INFO: - root - :**************** Login successful ************
+2023-07-28 00:25:24,223: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 00:25:25,803: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 00:26:58,078: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 00:27:04,680: - INFO: - root - :**************** Login successful ************
+2023-07-28 00:27:04,680: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 00:27:06,869: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 00:27:31,042: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 00:27:36,153: - INFO: - root - :**************** Login successful ************
+2023-07-28 00:27:36,153: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 00:27:37,700: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 00:56:43,870: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 00:56:49,014: - INFO: - root - :**************** Login successful ************
+2023-07-28 00:56:49,015: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 00:56:50,516: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:04:14,293: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:04:17,783: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:04:17,783: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:04:20,954: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:08:24,934: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:08:30,280: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:08:30,281: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:08:31,693: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:15:41,066: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:15:44,505: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:15:44,505: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:15:47,998: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:16:24,618: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:16:30,144: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:16:30,144: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:16:31,533: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:19:34,468: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:19:40,051: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:19:40,052: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:19:41,677: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:22:14,537: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:22:20,517: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:22:20,518: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:22:21,970: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:24:03,865: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:24:10,028: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:24:10,028: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:24:11,725: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:24:51,588: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:24:56,496: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:24:56,496: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:24:58,066: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:26:43,708: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:26:49,801: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:26:49,801: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:26:51,266: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:28:16,581: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:28:21,829: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:28:21,830: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:28:23,263: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:30:55,267: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:30:58,765: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:30:58,766: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:31:02,478: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:31:33,745: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:31:42,402: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:31:42,403: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:31:43,944: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:32:47,388: - INFO: - root - :*********** Test_004_SearchCustomerByEmail ***********
+2023-07-28 01:32:51,237: - INFO: - root - :**************** Login successful ************
+2023-07-28 01:32:51,237: - INFO: - root - :*********** Starting Search customer By Email ***********
+2023-07-28 01:32:54,081: - INFO: - root - :****************** searching customer by emailID ************
+2023-07-28 01:33:07,554: - INFO: - root - :************ TC_SearchCustomerByEmail_004 Finished *******
