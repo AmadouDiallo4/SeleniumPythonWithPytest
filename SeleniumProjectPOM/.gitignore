@@ -1,0 +1,7 @@
+#Ignore  files
+.pytest_cache
+
+.idea
+.gitignore
+geckodriver.log
+.
