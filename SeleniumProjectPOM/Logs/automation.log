@@ -317,3 +317,158 @@
 2023-07-28 01:58:28,931: - INFO: - root - :*********** Starting Search customer By Name ***********
 2023-07-28 01:58:32,193: - INFO: - root - :****************** searching customer by nameID ************
 2023-07-28 01:58:37,840: - INFO: - root - :************ TC_SearchCustomerByName_005 Finished *******
+2023-07-28 22:43:27,131: - WARNING: - selenium.webdriver.common.selenium_manager - :Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-07-28 22:43:27,131: - WARNING: - selenium.webdriver.common.selenium_manager - :Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-07-28 22:43:27,131: - WARNING: - selenium.webdriver.common.selenium_manager - :Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-07-28 22:43:27,131: - WARNING: - selenium.webdriver.common.selenium_manager - :Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-07-28 22:43:27,131: - WARNING: - selenium.webdriver.common.selenium_manager - :Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-07-28 22:43:29,793: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-28 22:43:29,793: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-28 22:43:29,793: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-28 22:43:29,793: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-28 22:43:29,793: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-28 22:43:33,981: - INFO: - root - :**************** Login successful ************
+2023-07-28 22:43:33,981: - INFO: - root - :**************** Login successful ************
+2023-07-28 22:43:33,981: - INFO: - root - :**************** Login successful ************
+2023-07-28 22:43:33,981: - INFO: - root - :**************** Login successful ************
+2023-07-28 22:43:33,981: - INFO: - root - :**************** Login successful ************
+2023-07-28 22:43:33,982: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-28 22:43:33,982: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-28 22:43:33,982: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-28 22:43:33,982: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-28 22:43:33,982: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-28 22:43:40,784: - INFO: - root - :******************* Providing customer info ********************
+2023-07-28 22:43:40,784: - INFO: - root - :******************* Providing customer info ********************
+2023-07-28 22:43:40,784: - INFO: - root - :******************* Providing customer info ********************
+2023-07-28 22:43:40,784: - INFO: - root - :******************* Providing customer info ********************
+2023-07-28 22:43:40,784: - INFO: - root - :******************* Providing customer info ********************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Saving Customer info *************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Saving Customer info *************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Saving Customer info *************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Saving Customer info *************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Saving Customer info *************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-28 22:43:50,857: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-28 22:43:51,145: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-28 22:43:51,145: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-28 22:43:51,145: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-28 22:43:51,145: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-28 22:43:51,145: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-28 22:43:51,740: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-28 22:43:51,740: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-28 22:43:51,740: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-28 22:43:51,740: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-28 22:43:51,740: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-28 22:43:55,217: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-28 22:43:55,217: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-28 22:43:55,217: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-28 22:43:55,217: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-28 22:43:55,217: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-28 22:44:00,696: - INFO: - root - :************************* Login test is passed *********************
+2023-07-28 22:44:00,696: - INFO: - root - :************************* Login test is passed *********************
+2023-07-28 22:44:00,696: - INFO: - root - :************************* Login test is passed *********************
+2023-07-28 22:44:00,696: - INFO: - root - :************************* Login test is passed *********************
+2023-07-28 22:44:00,696: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:14:22,175: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:14:22,175: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:14:22,175: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:14:22,175: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:14:22,175: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:14:29,598: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:14:29,598: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:14:29,598: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:14:29,598: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:14:29,598: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:14:29,598: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:14:29,598: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:14:29,598: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:14:29,598: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:14:29,598: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:14:34,381: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:14:34,381: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:14:34,381: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:14:34,381: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:14:34,381: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:14:42,820: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:14:42,820: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:14:42,820: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:14:42,820: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:14:42,820: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:14:42,821: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:14:42,821: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:14:42,821: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:14:42,821: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:14:42,821: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:14:43,936: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:14:43,936: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:14:43,936: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:14:43,936: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:14:43,936: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:14:44,562: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:14:44,562: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:14:44,562: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:14:44,562: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:14:44,562: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:14:47,710: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:14:47,710: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:14:47,710: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:14:47,710: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:14:47,710: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:14:54,708: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:14:54,708: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:14:54,708: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:14:54,708: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:14:54,708: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:45:09,715: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:45:09,715: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:45:09,715: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:45:09,715: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:45:09,715: - INFO: - root - :************* Test_003_AddCustomer ************
+2023-07-29 00:45:15,350: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:45:15,350: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:45:15,350: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:45:15,350: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:45:15,350: - INFO: - root - :**************** Login successful ************
+2023-07-29 00:45:15,350: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:45:15,350: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:45:15,350: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:45:15,350: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:45:15,350: - INFO: - root - :************ starting Add Customer Test *******
+2023-07-29 00:45:18,378: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:45:18,378: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:45:18,378: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:45:18,378: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:45:18,378: - INFO: - root - :******************* Providing customer info ********************
+2023-07-29 00:45:27,532: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:45:27,532: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:45:27,532: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:45:27,532: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:45:27,532: - INFO: - root - :***************** Saving Customer info *************
+2023-07-29 00:45:27,533: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:45:27,533: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:45:27,533: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:45:27,533: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:45:27,533: - INFO: - root - :***************** Add customer validation started *******************
+2023-07-29 00:45:28,032: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:45:28,032: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:45:28,032: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:45:28,032: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:45:28,032: - INFO: - root - :************* Add customer Test passed ****************
+2023-07-29 00:45:28,620: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:45:28,620: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:45:28,620: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:45:28,620: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:45:28,620: - INFO: - root - :************* Ending Add customer test *******************
+2023-07-29 00:45:32,520: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:45:32,520: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:45:32,520: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:45:32,520: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:45:32,520: - INFO: - root - :************************* Veriying Login test *********************
+2023-07-29 00:45:37,419: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:45:37,419: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:45:37,419: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:45:37,419: - INFO: - root - :************************* Login test is passed *********************
+2023-07-29 00:45:37,419: - INFO: - root - :************************* Login test is passed *********************
