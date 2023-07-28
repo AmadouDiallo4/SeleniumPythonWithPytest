@@ -1,5 +1,5 @@
 import time
-
+import pytest
 from pageObjects.AddCustomerPage import AddCustomer
 from pageObjects.LoginPage import LoginPage
 from pageObjects.SearchCustomerPage import SearchByCustomer
@@ -14,6 +14,7 @@ class Test_004_SearchCustomerByEmail:
     logger = LogGen.loggen()
     email_search = "victoria_victoria@nopCommerce.com"
 
+    @pytest.mark.regression
     def test_searchEmail(self, setup):
         self.logger.info("*********** Test_004_SearchCustomerByEmail ***********")
         self.driver = setup

@@ -1,11 +1,12 @@
 import random
 import string
-import time
+import pytest
 from selenium.webdriver.common.by import By
 from pageObjects.AddCustomerPage import AddCustomer
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
+
 
 
 class Test_003_AddCustomer:
@@ -14,6 +15,7 @@ class Test_003_AddCustomer:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()
 
+    @pytest.mark.sanity
     def test_addCustomer(self, setup):
         self.logger.info("************* Test_003_AddCustomer ************")
         self.driver = setup

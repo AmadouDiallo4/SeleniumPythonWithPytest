@@ -15,6 +15,7 @@ class Test_005_SearchCustomerByName:
     fname_search = "Victoria"
     lname_search = "Terces"
 
+    @pytest.mark.regression
     def test_searchName(self, setup):
         self.logger.info("*********** Test_005_SearchCustomerByName ***********")
         self.driver = setup
