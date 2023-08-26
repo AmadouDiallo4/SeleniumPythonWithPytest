@@ -1,9 +1,9 @@
 # List the start up tasks. Learn more: https://www.gitpod.io/docs/configure/workspaces/tasks
 tasks:
-  - name: Repos
+  - name: Terminal 1
     init: cd  SeleniumProjectPOM/ # runs during prebuild => https://www.gitpod.io/docs/configure/projects/prebuilds
     command: echo 'open repos'
-  - name: Install packages
+  - name: Terminal 2
     init: | 
       cd  SeleniumProjectPOM/
       pip install -r rerquirements.txt # runs during prebuild => https://www.gitpod.io/docs/configure/projects/prebuilds
