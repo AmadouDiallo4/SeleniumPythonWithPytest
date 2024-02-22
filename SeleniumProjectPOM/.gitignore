@@ -4,4 +4,4 @@
 .idea
 .gitignore
 geckodriver.log
-run.bat
+*.bat
