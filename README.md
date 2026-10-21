@@ -237,11 +237,11 @@ Le projet nécessite un environnement Python, Selenium, Pytest, `openpyxl` et un
 Avant une exécution :
 
 1. Préparer un environnement Python isolé et des dépendances compatibles.
-2. Vérifier la configuration dans  
+2. Vérifier la configuration dans
    `/home/runner/work/SeleniumPythonWithPytest/SeleniumPythonWithPytest/SeleniumProjectPOM/Configurations/config.ini`.
-3. Contrôler que les données de test sont synthétiques dans  
+3. Contrôler que les données de test sont synthétiques dans
    `/home/runner/work/SeleniumPythonWithPytest/SeleniumPythonWithPytest/SeleniumProjectPOM/TestDatas/LoginData.xlsx`.
-4. Utiliser comme répertoire de travail  
+4. Utiliser comme répertoire de travail
    `/home/runner/work/SeleniumPythonWithPytest/SeleniumPythonWithPytest/SeleniumProjectPOM`.
 5. Lancer les tests avec Pytest en sélectionnant Chrome ou Firefox via l’option `--browser`.
 
